@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/UI/main-menu.unity
+    guid: 0a8f1727727fc90429538ab6ede99c76
+  - enabled: 1
+    path: Assets/Scenes/UI/Intro.unity
+    guid: 6b0a0e5d954e691479bb47934fa51d7d
+  - enabled: 1
+    path: Assets/Scenes/Destinations/main.unity
+    guid: 948b8a0ea559ed74ab7aa628eb034a16
+  - enabled: 1
+    path: Assets/Scenes/Areas/lake.unity
+    guid: 2b4339da6b450bf488c13cc3782109b8
+  - enabled: 1
+    path: Assets/Scenes/Destinations/mount-olympus.unity
+    guid: d680325d86c7306448868e6aa1583537
+  - enabled: 1
+    path: Assets/Scenes/Areas/area1.unity
+    guid: 2bc9bede6ca44df4680d8587add53dcb
+  - enabled: 1
+    path: Assets/Scenes/Destinations/prome-house.unity
+    guid: 46706581ff84c4d4c9e5ae244af2c8aa
+  - enabled: 1
+    path: Assets/Scenes/Houses/house1-1.unity
+    guid: 83779d1a90f5eac4f9da9052699f7df4
+  - enabled: 1
+    path: Assets/Scenes/Houses/house1-2.unity
+    guid: 6f3bd851df395954b8d41a7ec11c67f6
+  - enabled: 1
+    path: Assets/Scenes/Houses/house1-3.unity
+    guid: 56b5fed139ae4b04f8a87402c17cae25
+  - enabled: 1
+    path: Assets/Scenes/Houses/house2-1.unity
+    guid: 2ef6627bc4252f04ea665e857f8aec48
+  - enabled: 1
+    path: Assets/Scenes/Houses/house2-2.unity
+    guid: 74c42b081ef86c149b82a064733aed29
+  - enabled: 1
+    path: Assets/Scenes/Shops/innflr1.unity
+    guid: d02a35a47d5b0a94eb49d356b0a025e1
+  - enabled: 1
+    path: Assets/Scenes/Shops/innflr2.unity
+    guid: 6bb4ac5a62da56e41bfb2c428508b304
+  - enabled: 1
+    path: Assets/Scenes/Shops/item-shop.unity
+    guid: 5c835d0ad4665084b9a521a532a2b756
+  - enabled: 1
+    path: Assets/Scenes/Shops/weaponry.unity
+    guid: 8d0c456a12e8f2c46a512abe6edf6729
+  m_configObjects: {}
